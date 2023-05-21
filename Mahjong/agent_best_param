@@ -1,0 +1,26 @@
+--Batch: 128.000000
+--EarlyStop: 1.000000
+--ExtraTestFactorPerEpoch: 100000
+--ExtraTrainFactorPerEpoch: 0.100000
+--Loc_Gradient_decay: 0.0504642
+--Max_Epoch: 250.600000
+--Max_Step: 1.000000
+--Mean_Baseline_Beta1: 0.9
+--Beta1_Pow: 1
+--Beta2_Pow: 1
+--Reward_Baseline_Beta1: 0.99
+--Scale_Num: 2.0000
+--Scale_Width_Heighth: 5.000000
+--Screen_Width: 15.000000
+--Speed: 0.02
+--Optimizer: 2
+--Speed_decay_time: 4
+--paramNum: 800000
+--stdev: 0.031855
+--trainNum: 300000
+--Max_srand_row: -1
+--Init_Agent: 1
+--L2_Factor: 1e-4
+--Thr_Num: 25
+--Simulations: 500
+ 
